@@ -1,0 +1,11 @@
+{
+  "name": "copperpot",
+  "version": "0.1.0",
+  "description": "Monorepo meant to centralize all the utilities I've written over the years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Hayes",
+  "license": "MIT"
+}
